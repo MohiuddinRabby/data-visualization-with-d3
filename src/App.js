@@ -1,11 +1,11 @@
 import React from "react";
-import Basics from "./components/Basics/Basics";
+import CurevedLine from "./components/Basics/CurevedLine";
 
 const App = () => {
   return (
     <div>
       <h1>Data Visualization</h1>
-      <Basics/>
+      <CurevedLine />
     </div>
   );
 };

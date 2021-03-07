@@ -1,4 +1,4 @@
-const data = [
+const dataDemo = [
   {
     end_year: "",
     intensity: 6,
@@ -1628,4 +1628,4 @@ const data = [
     likelihood: 2,
   },
 ];
-export default data;
+export default dataDemo;
